@@ -2,8 +2,6 @@
 ![VOCX](https://user-images.githubusercontent.com/68405831/115785440-d7beea80-a395-11eb-8b18-36515925154e.png)
 ## VOLTECX - AlfaID :rocket:
 
-A idéia da nossa equipe,é a criação de um aplicativo que registre cada funcionário da empresa, e que com o Auxilio do QRCode/Codigo de Barras o funcionário adicione os seus EPI's recebidos.
-
 ### Problema ⚠️
 ***
   Com anos de experiência no ramo de montagens eletromecânicas, a Alfa Engenharia percebeu que seu sistema de entrega de EPIs (Equipamentos de Proteção Individual) necessita de uma melhoria, tendo em vista que o modelo atual demanda um gasto acentuado de tempo e serviço comparado à eficiência que um modelo tecnológico pode proporcionar. Basicamente, o problema consiste em elaborar uma solução funcional e computacional para o controle de entrega dos EPIs para os funcionários no campo de obra.
