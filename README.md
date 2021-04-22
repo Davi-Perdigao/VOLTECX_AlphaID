@@ -1,39 +1,25 @@
 # VOLTECX_Alphaid
 ![VOCX](https://user-images.githubusercontent.com/68405831/115785440-d7beea80-a395-11eb-8b18-36515925154e.png)
-## D3Vs - AlfaID :rocket:
+## VOLTECX - AlfaID :rocket:
 
 A idéia da nossa equipe,é a criação de um aplicativo que registre cada funcionário da empresa, e que com o Auxilio do QRCode/Codigo de Barras o funcionário adicione os seus EPI's recebidos.
 
-### Sobre o Sistema  :page_with_curl:
+### Problema ⚠️
 ***
- Nossa principal ideia é a construção de dois aplicativos, um para acesso dos trabalhadores que conterá as informações de seus EPIs e outro exclusivo para a gestão   dos funcionários que terá a função de cadastrar os trabalhadores e EPIs.
- 
-### Problema ❓
-***
-  O problema encontrado pela D3Vs na Alfa Engenharia, é a forma que é efetuado o controle e gestão dos EPI's para seus funcionários, sendo de maneira não prática e     tão pouco eficiente.
+  Com anos de experiência no ramo de montagens eletromecânicas, a Alfa Engenharia percebeu que seu sistema de entrega de EPIs (Equipamentos de Proteção Individual) necessita de uma melhoria, tendo em vista que o modelo atual demanda um gasto acentuado de tempo e serviço comparado à eficiência que um modelo tecnológico pode proporcionar. Basicamente, o problema consiste em elaborar uma solução funcional e computacional para o controle de entrega dos EPIs para os funcionários no campo de obra.
   
-### Objetivo 💡
+### Sobre o Sistema (Objetivos 🎯) : page_with_curl:
 ***
-   Automatizar o controle de entregas, vida útil e disponibilidade de EPI's.
+ • Elaborar um sistema que deve mitigar o processo manual e escrito, substituindo o mesmo por uma automação tecnológica compactada em banco de dados.
+• Ter total controle sobre todos os EPIs cadastrados, seus respectivos CAs e situação do equipamento.
+• Apresentar um recurso prático, que pode ser utilizado em qualquer ambiente (online ou offline), podendo ser controlado por qualquer funcionário autorizado pela Alfa.
+• Controlar desde o estoque necessário, até o status atual dos equipamentos e certificar que eles serão entregues corretamente aos funcionários.
    
-### Público alvo :dart:
+### Público alvo 👁️:
 ***
-   Nosso público alvo são os funcionarios e as empresas que necessitam de uma ferramenta que auxilie na entrega e gerenciamento de EPI's de uma forma pratica e eficiente.
-
-
+   O público que almejamos favorecer com essa solução é a Alfa Engenharia e todo o seu vasto grupo de colaboradores. Ao aderir essa idéia a Alfa irá assegurar seus funcionários e melhorar a gestão dessa etapa junto a seus clientes e, em âmbito nacional, se tornar cada vez mais referência nos segmentos em que ela abrange.
 
 ***
-
-FIGMA Tudo -
-FIGMA Run - https://www.figma.com/proto/74Ol1bZSVkkQyYJWGFGU0I/AlfaID-D3Vs?node-id=41%3A304&scaling=scale-down
-FIGMA
-
-
 
 Desenvolvedores
-[Arley Augusto](https://github.com/arleynm),
-[Iago Antunes](https://github.com/IagoAntunes) e
-[Ítalo Médici](https://github.com/ItaloMedici)
-
-
-![d3vs](https://i.imgur.com/nCUxjpM.png)
+[Davi Perdigão](https://github.com/Davi-Perdigao),
