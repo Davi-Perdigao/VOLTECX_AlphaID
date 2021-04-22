@@ -10,7 +10,10 @@ A idéia da nossa equipe,é a criação de um aplicativo que registre cada funci
   
 ### Sobre o Sistema (Objetivos 🎯): 
 ***
-1) Elaborar um sistema que deve mitigar o processo manual e escrito, substituindo o mesmo por uma automação tecnológica compactada em banco de dados; 2) Ter total controle sobre todos os EPIs cadastrados, seus respectivos CAs e situação do equipamento; 3) Apresentar um recurso prático, que pode ser utilizado em qualquer ambiente (online ou offline), podendo ser controlado por qualquer funcionário autorizado pela Alfa; 4) Controlar desde o estoque necessário, até o status atual dos equipamentos e certificar que eles serão entregues corretamente aos funcionários.
+ 1) Elaborar um sistema que deve mitigar o processo manual e escrito, substituindo o mesmo por uma automação tecnológica compactada em banco de dados; 
+ 2) Ter total controle sobre todos os EPIs cadastrados, seus respectivos CAs e situação do equipamento;
+ 4) Apresentar um recurso prático, que pode ser utilizado em qualquer ambiente (online ou offline), podendo ser controlado por qualquer funcionário autorizado pela Alfa; 
+ 5) Controlar desde o estoque necessário, até o status atual dos equipamentos e certificar que eles serão entregues corretamente aos funcionários.
    
 ### Público alvo 👁️:
 ***
