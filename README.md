@@ -8,12 +8,9 @@ A idéia da nossa equipe,é a criação de um aplicativo que registre cada funci
 ***
   Com anos de experiência no ramo de montagens eletromecânicas, a Alfa Engenharia percebeu que seu sistema de entrega de EPIs (Equipamentos de Proteção Individual) necessita de uma melhoria, tendo em vista que o modelo atual demanda um gasto acentuado de tempo e serviço comparado à eficiência que um modelo tecnológico pode proporcionar. Basicamente, o problema consiste em elaborar uma solução funcional e computacional para o controle de entrega dos EPIs para os funcionários no campo de obra.
   
-### Sobre o Sistema (Objetivos 🎯) : page_with_curl:
+### Sobre o Sistema (Objetivos 🎯): 
 ***
- • Elaborar um sistema que deve mitigar o processo manual e escrito, substituindo o mesmo por uma automação tecnológica compactada em banco de dados.
-• Ter total controle sobre todos os EPIs cadastrados, seus respectivos CAs e situação do equipamento.
-• Apresentar um recurso prático, que pode ser utilizado em qualquer ambiente (online ou offline), podendo ser controlado por qualquer funcionário autorizado pela Alfa.
-• Controlar desde o estoque necessário, até o status atual dos equipamentos e certificar que eles serão entregues corretamente aos funcionários.
+1)Elaborar um sistema que deve mitigar o processo manual e escrito, substituindo o mesmo por uma automação tecnológica compactada em banco de dados; 2)Ter total controle sobre todos os EPIs cadastrados, seus respectivos CAs e situação do equipamento; 3)Apresentar um recurso prático, que pode ser utilizado em qualquer ambiente (online ou offline), podendo ser controlado por qualquer funcionário autorizado pela Alfa; 4)Controlar desde o estoque necessário, até o status atual dos equipamentos e certificar que eles serão entregues corretamente aos funcionários.
    
 ### Público alvo 👁️:
 ***
