@@ -1,5 +1,5 @@
 # VOLTECX_Alphaid
-![VOLTECX](![V](https://user-images.githubusercontent.com/68405831/115784114-10f65b00-a394-11eb-9199-1e9c0a988751.png))
+![VOCX](https://user-images.githubusercontent.com/68405831/115785440-d7beea80-a395-11eb-8b18-36515925154e.png)
 ## D3Vs - AlfaID :rocket:
 
 A idéia da nossa equipe,é a criação de um aplicativo que registre cada funcionário da empresa, e que com o Auxilio do QRCode/Codigo de Barras o funcionário adicione os seus EPI's recebidos.
