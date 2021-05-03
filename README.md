@@ -21,3 +21,4 @@
 
 Desenvolvedores
 [Davi Perdigão](https://github.com/Davi-Perdigao),
+[Edmilson Lino](https://github.com/WarLore)
